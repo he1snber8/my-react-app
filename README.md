@@ -1,2 +1,1 @@
-# my-react-app
-Some description
+Readme content
